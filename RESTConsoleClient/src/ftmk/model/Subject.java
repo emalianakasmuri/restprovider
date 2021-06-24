@@ -1,9 +1,16 @@
 package ftmk.model;
 
+/**
+ * Represent subject in Hogwarts
+ * 
+ * @author emalianakasmuri
+ *
+ */
 public class Subject {
 	
 	private int subjectId;
 	private String name;
+	
 	
 	public int getSubjectId() {
 		return subjectId;

@@ -1,6 +1,10 @@
 package ftmk.model;
 
-
+/**
+ * Represent teacher in hogwarts and subject associated to the teacher
+ * @author emalianakasmuri
+ *
+ */
 public class Teacher {
 	
 	
